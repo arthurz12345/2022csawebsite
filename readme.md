@@ -2,7 +2,7 @@
 
 I build this website over the course of my term as club Webmaster for the Chinese Students Association at Cal Poly from 2021-2022.  It served as a reference for club members, sponsors, and other clubs who we worked with.
 
-It was originally hosted at www.calpolycsa.org in 2022 but has since been replaced so please check it out at it's new home: arthurz12345.github.io/2022csawebsite/
+It was originally hosted at www.calpolycsa.org in 2022 but has since been replaced so please check it out at it's new home: www.arthurz12345.github.io/2022csawebsite/
 
 
 **Made With**:
